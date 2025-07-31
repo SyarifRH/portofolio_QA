@@ -63,6 +63,11 @@ Beberapa bug ditemukan dan dilaporkan pada aplikasi **SecondHand – Binar Acade
 - Warna ikon tidak sesuai desain
 - Hak akses user tidak sesuai role setelah perubahan
 
+### 📌 Catatan :
+
+Dokumentasi tambahan seperti test case lengkap, skrip otomatisasi (Cypress/Robot Framework), log hasil pengujian, serta laporan bug detail berasal dari proyek nyata (real project), dan dapat disediakan apabila dibutuhkan dalam proses seleksi selanjutnya untuk mendemonstrasikan kapabilitas dan pengalaman kerja secara langsung.
+
+
 ---
 
 📬 Hubungi saya melalui:  
