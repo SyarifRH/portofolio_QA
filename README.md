@@ -5,55 +5,61 @@
 
 ---
 
-## 🧪 Contoh Pekerjaan – Bootcamp (Simulasi)
+## 🎓 Simulasi Bootcamp
 
-### 🔹 Bootcamp:
-- Binar Academy – *Project: SecondHand Marketplace*
-- SanberCode – *QA Fundamentals*
+### ✅ Test Cases dan Dokumentasi di Spreadsheet / Excel
 
-### ✅ Test Case Manual:
-- Ditulis menggunakan **Google Sheets / Excel**
-- Contoh test case:
-  - Proses Checkout (SecondHand)
-  - Login dan Upload Produk (SanberCode)
-- 📄 [Lihat dokumen test case di Google Sheets](#)
+- **SecondHand – Binar Academy**
+  - Digunakan untuk membuat demo test case
+  - Test case untuk proses checkout  
+    🔗 *Check the Google Sheets document here*
 
-### 🐞 Bug Report:
-- Disusun menggunakan **Trello** dan **Google Sheets**
-- Contoh bug:
-  - Tombol Checkout tidak responsif di mobile
-  - Upload gambar gagal di browser Firefox
-  - Teks modal tumpang tindih di layar kecil
-- 🖼️ [Lihat screenshot bug report di Trello](#)
+- **SanberCode Bootcamp**
+  - Digunakan untuk membuat demo test case  
+    🔗 *Check the Spreadsheet document here*
+
+### 🐞 Bug Reports dan Dokumentasi di Spreadsheet / Trello
+
+Beberapa bug ditemukan dan dilaporkan pada aplikasi **SecondHand – Binar Academy**:
+
+- **Bug #1**  
+  🔗 *Check the Google Sheets document here*
+
+- **Bug #2**  
+  🖼️ *Check the screenshot of the bug report in Trello*
+
+- **Bug #3**  
+  🖼️ *Check the screenshot of the bug report in Trello*
 
 ---
 
-## 💼 Contoh Pekerjaan – Pengalaman Nyata
+## 💼 Pengalaman Kerja Nyata
 
-### 🔹 Project: Aplikasi iLib (Platform Perpustakaan Digital)
+### 📌 Project: Aplikasi iLib – Platform Perpustakaan Digital  
 **Peran:** QA Manual & Automation  
-**Tools:** Cypress, Robot Framework, Google Sheets, Trello, JIRA
+**Tools:** Cypress, Robot Framework, Trello, JIRA, Google Sheets
 
-### ✅ Pengujian Fitur:
-- Peminjaman dan Pembacaan Buku
-- Validasi Notifikasi & Modal
-- Handling Konten ePub/PDF dan DRM
+### ✅ Tugas Utama:
+- Menyusun dan mengeksekusi test case manual & otomatis
+- Menguji fitur-fitur penting:
+  - Peminjaman dan pembacaan buku
+  - Validasi DRM, ePub, dan struktur PDF
+  - Penanganan pop-up, loading, dan notifikasi
+- Menangani berbagai kondisi:
+  - Buku tidak ditemukan
+  - Modal “Konten DRM Tidak Valid”
+  - Masalah antrian dan error reader
 
-### ⚙️ Test Automation:
-- Deteksi otomatis tombol: Pinjam, Baca, Antri
-- Penanganan modal “Konten DRM Tidak Valid”
-- Logging hasil test ke file CSV
+### ⚙️ Test Otomatisasi:
+- Otomatisasi tombol *Pinjam*, *Baca*, dan *Antri*
+- Validasi kondisi error menggunakan Cypress
+- Logging hasil testing ke file CSV
 
-### 🐞 Contoh Bug yang Ditemukan:
-- Konten tidak dapat dibuka karena DRM
-- Buku tidak tampil dalam satu baris
-- Warna ikon “Total Unduh” tidak sesuai
-- Role user tidak sinkron dengan tampilan dashboard
-
----
-
-📌 **Catatan:**  
-File dokumen, skrip, dan screenshot dapat saya kirimkan jika dibutuhkan untuk proses seleksi lebih lanjut.
+### 🐞 Contoh Bug:
+- Gagal membaca buku karena konten tidak valid
+- Tampilan buku tidak rapi (kurang dari 4 per baris)
+- Warna ikon tidak sesuai desain
+- Hak akses user tidak sesuai role setelah perubahan
 
 ---
 
