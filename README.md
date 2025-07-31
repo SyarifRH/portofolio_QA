@@ -67,5 +67,5 @@ Beberapa bug ditemukan dan dilaporkan pada aplikasi **SecondHand – Binar Acade
 
 📬 Hubungi saya melalui:  
 📧 Email: sharif.ridho@gmail.com
-💼 Kontak WhatsApp : 085641229651
+💼 Kontak WhatsApp : [085641229651](http://wa.me/6285641229651)
 💼 LinkedIn: [Syarif Ridhohidayatulloh](https://www.linkedin.com/in/syarif-ridhohidayatulloh/)
