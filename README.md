@@ -37,7 +37,7 @@ Beberapa bug ditemukan dan dilaporkan pada aplikasi **SecondHand – Binar Acade
 
 ### 📌 Project: Aplikasi iLib – Platform Perpustakaan Digital  
 **Peran:** QA Manual & Automation  
-**Tools:** Cypress, Robot Framework, Trello, JIRA, Google Sheets
+**Tools:** Cypress, Robot Framework, Selenium Trello, GIT, Google Sheets
 
 ### ✅ Tugas Utama:
 - Menyusun dan mengeksekusi test case manual & otomatis
@@ -51,18 +51,21 @@ Beberapa bug ditemukan dan dilaporkan pada aplikasi **SecondHand – Binar Acade
   - Masalah antrian dan error reader
 
 ### ⚙️ Test Otomatisasi:
-- Otomatisasi tombol *Pinjam*, *Baca*, dan *Antri*
-- Validasi kondisi error menggunakan Cypress
-- Logging hasil testing ke file CSV
+- Otomatisasi UI skenario pinjam baca buku dengan judul ribuan judul
+- Otomatisasi fitur penting aplikasi
+- Otomatisasi Pengembalian buku secara otomatis
+- Validasi kondisi error menggunakan Cypress/Robot Framework/Selenium
+- Logging hasil testing
 
 ### 🐞 Contoh Bug:
-- Gagal membaca buku karena konten tidak valid
-- Tampilan buku tidak rapi (kurang dari 4 per baris)
+- Gagal Pinjam, membaca buku karena konten tidak valid
+- Tampilan buku tidak dibatasi jika fitur preview
 - Warna ikon tidak sesuai desain
 - Hak akses user tidak sesuai role setelah perubahan
 
 ---
 
 📬 Hubungi saya melalui:  
-📧 Email: syarif.rh.id@gmail.com  
-💼 LinkedIn: [linkedin.com/in/syarifrh](https://linkedin.com/in/syarifrh)
+📧 Email: sharif.ridho@gmail.com
+💼 Kontak WhatsApp : 085641229651
+💼 LinkedIn: [Syarif Ridhohidayatulloh](https://www.linkedin.com/in/syarif-ridhohidayatulloh/)
